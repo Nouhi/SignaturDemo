@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SignaturDemo</string>
+    <string name="explanation"> Tap your Signatur card to show the content and timing</string>
+
+</resources>
